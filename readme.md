@@ -7,3 +7,6 @@ Frontend skills — это веб приложение-справочник на
 
 `node app.js`
 
+
+## DEMO
+https://korosteleva.github.io/frontent-skills/
